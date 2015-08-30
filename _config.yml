@@ -8,9 +8,9 @@ relative_permalinks: true
 
 # Setup
 title:            IDleg
-tagline:          'Blog documenting development of a new Idaho Legislative Portal for CS 597 at Boise State'
-description:      Using hyde theme http://hyde.getpoole.com
-url:              http://idleg.org
+tagline:          'An Idaho legislative portal'
+description:      A blog documenting development of a new Idaho Legislative Portal for CS 597 at Boise State
+url:              http://idleg.info
 baseurl:          /
 
 author:
