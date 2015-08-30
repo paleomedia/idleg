@@ -3,28 +3,16 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+# idleg
+Interactive Portal to Idaho Legislature - Under Construction
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+This project is part of a master's degree in "Data Journalism" at Boise State University. I'm building an alternative legislative portal for the state of Idaho that: 
 
-There are currently two themes built on Poole:
+- Uses data from the Sunlight Foundation [Open States Project API](https://sunlightlabs.github.io/openstates-api/) to provide a rich dataset of state legislative data
+- Provides social tools to bills and other legislative action, allowing constituents to "testify" on bills online
+- Provides some basic statistics on legislative actions
+- Provides a means to parse votes in various ways - by bill, lawmaker, party, etc.
+- Demonstrates the type of information that hacker-journalists can access
+- Demonstrates the cross-over between "open government" and "open news" initiatives
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+You can read more about my [MA project on my blog](http://www.paleomedia.org/2013/09/30/data-journalism/) and look for updates here.
