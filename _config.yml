@@ -7,15 +7,15 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            IDleg
+tagline:          'Blog documenting development of a new Idaho Legislative Portal for CS 597 at Boise State'
+description:      Using hyde theme http://hyde.getpoole.com
+url:              http://idleg.org
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Nathaniel Hoffman'
+  url:            https://twitter.com/paleomedia
 
 paginate:         5
 
@@ -23,4 +23,5 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/paleomedia/idleg
+  
