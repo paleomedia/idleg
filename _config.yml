@@ -23,4 +23,4 @@ paginate:         5
 version:          2.1.0
 
 github:           https://github.com/paeleomedia
-  repo:           https://github.com/paleomedia/idleg
+repo:             https://github.com/paleomedia/idleg
