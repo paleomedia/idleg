@@ -21,6 +21,5 @@ paginate:         5
 
 # Custom vars
 version:          1.0
-
 github:           https://github.com/paleomedia/
 repo:             https://github.com/paleomedia/idleg
