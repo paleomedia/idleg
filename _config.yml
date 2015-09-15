@@ -11,7 +11,7 @@ title:            IDleg
 tagline:          'An Idaho legislative portal'
 description:      A blog documenting development of a new Idaho Legislative Portal for CS 597 at Boise State
 url:              http://idleg.info
-baseurl:          /idleg
+baseurl:          ""
 
 author:
   name:           'Nathaniel Hoffman'
